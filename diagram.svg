@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="600" font-family="Arial" font-size="14">
+<rect width="820" height="600" fill="white"/>
+<text x="410" y="25" text-anchor="middle" font-size="17" font-weight="bold">Варіант 6 (схема №6, nt=5): розподіл дій по потоках</text>
+<text x="135" y="60" text-anchor="middle" font-weight="bold">Потік 1</text>
+<text x="225" y="60" text-anchor="middle" font-weight="bold">Потік 2</text>
+<text x="315" y="60" text-anchor="middle" font-weight="bold">Потік 3</text>
+<text x="405" y="60" text-anchor="middle" font-weight="bold">Потік 4</text>
+<text x="495" y="60" text-anchor="middle" font-weight="bold">Потік 5</text>
+<text x="80" y="90" text-anchor="end">t = 1</text>
+<rect x="92" y="72" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="135" y="90" text-anchor="middle">a1</text>
+<rect x="182" y="72" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="225" y="90" text-anchor="middle">a2</text>
+<rect x="272" y="72" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="315" y="90" text-anchor="middle">a3</text>
+<rect x="362" y="72" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="405" y="90" text-anchor="middle">a4</text>
+<rect x="452" y="72" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="495" y="90" text-anchor="middle">a5</text>
+<text x="80" y="120" text-anchor="end">t = 2</text>
+<rect x="92" y="102" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="135" y="120" text-anchor="middle">a6</text>
+<rect x="182" y="102" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="225" y="120" text-anchor="middle">a7</text>
+<rect x="272" y="102" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="315" y="120" text-anchor="middle">a8</text>
+<rect x="362" y="102" width="86" height="26" fill="#8ecae6" stroke="#333"/>
+<text x="405" y="120" text-anchor="middle">a9</text>
+<rect x="452" y="102" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="495" y="120" text-anchor="middle">d1</text>
+<text x="80" y="150" text-anchor="end">t = 3</text>
+<rect x="92" y="132" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="135" y="150" text-anchor="middle">d2</text>
+<rect x="182" y="132" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="225" y="150" text-anchor="middle">d3</text>
+<rect x="272" y="132" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="315" y="150" text-anchor="middle">d4</text>
+<rect x="362" y="132" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="405" y="150" text-anchor="middle">d5</text>
+<rect x="452" y="132" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="495" y="150" text-anchor="middle">d6</text>
+<text x="80" y="180" text-anchor="end">t = 4</text>
+<rect x="92" y="162" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="135" y="180" text-anchor="middle">d7</text>
+<rect x="182" y="162" width="86" height="26" fill="#219ebc" stroke="#333"/>
+<text x="225" y="180" text-anchor="middle">d8</text>
+<rect x="272" y="162" width="86" height="26" fill="#ffb703" stroke="#333"/>
+<text x="315" y="180" text-anchor="middle">b1</text>
+<rect x="362" y="162" width="86" height="26" fill="#ffb703" stroke="#333"/>
+<text x="405" y="180" text-anchor="middle">b2</text>
+<rect x="452" y="162" width="86" height="26" fill="#ffb703" stroke="#333"/>
+<text x="495" y="180" text-anchor="middle">b3</text>
+<text x="80" y="210" text-anchor="end">t = 5</text>
+<rect x="92" y="192" width="86" height="26" fill="#ffb703" stroke="#333"/>
+<text x="135" y="210" text-anchor="middle">b4</text>
+<rect x="182" y="192" width="86" height="26" fill="#ffb703" stroke="#333"/>
+<text x="225" y="210" text-anchor="middle">b5</text>
+<rect x="272" y="192" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="315" y="210" text-anchor="middle">e1</text>
+<rect x="362" y="192" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="405" y="210" text-anchor="middle">e2</text>
+<rect x="452" y="192" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="495" y="210" text-anchor="middle">e3</text>
+<text x="80" y="240" text-anchor="end">t = 6</text>
+<rect x="92" y="222" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="135" y="240" text-anchor="middle">e4</text>
+<rect x="182" y="222" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="225" y="240" text-anchor="middle">e5</text>
+<rect x="272" y="222" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="315" y="240" text-anchor="middle">e6</text>
+<rect x="362" y="222" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="405" y="240" text-anchor="middle">e7</text>
+<rect x="452" y="222" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="495" y="240" text-anchor="middle">e8</text>
+<text x="80" y="270" text-anchor="end">t = 7</text>
+<rect x="92" y="252" width="86" height="26" fill="#fb8500" stroke="#333"/>
+<text x="135" y="270" text-anchor="middle">e9</text>
+<rect x="182" y="252" width="86" height="26" fill="#43aa8b" stroke="#333"/>
+<text x="225" y="270" text-anchor="middle">g1</text>
+<rect x="272" y="252" width="86" height="26" fill="#43aa8b" stroke="#333"/>
+<text x="315" y="270" text-anchor="middle">g2</text>
+<rect x="362" y="252" width="86" height="26" fill="#43aa8b" stroke="#333"/>
+<text x="405" y="270" text-anchor="middle">g3</text>
+<rect x="452" y="252" width="86" height="26" fill="#43aa8b" stroke="#333"/>
+<text x="495" y="270" text-anchor="middle">g4</text>
+<text x="80" y="300" text-anchor="end">t = 8</text>
+<rect x="92" y="282" width="86" height="26" fill="#43aa8b" stroke="#333"/>
+<text x="135" y="300" text-anchor="middle">g5</text>
+<rect x="182" y="282" width="86" height="26" fill="#90be6d" stroke="#333"/>
+<text x="225" y="300" text-anchor="middle">c1</text>
+<rect x="272" y="282" width="86" height="26" fill="#90be6d" stroke="#333"/>
+<text x="315" y="300" text-anchor="middle">c2</text>
+<rect x="362" y="282" width="86" height="26" fill="#90be6d" stroke="#333"/>
+<text x="405" y="300" text-anchor="middle">c3</text>
+<rect x="452" y="282" width="86" height="26" fill="#90be6d" stroke="#333"/>
+<text x="495" y="300" text-anchor="middle">c4</text>
+<text x="80" y="330" text-anchor="end">t = 9</text>
+<rect x="92" y="312" width="86" height="26" fill="#90be6d" stroke="#333"/>
+<text x="135" y="330" text-anchor="middle">c5</text>
+<rect x="182" y="312" width="86" height="26" fill="#90be6d" stroke="#333"/>
+<text x="225" y="330" text-anchor="middle">c6</text>
+<rect x="272" y="312" width="86" height="26" fill="#90be6d" stroke="#333"/>
+<text x="315" y="330" text-anchor="middle">c7</text>
+<rect x="362" y="312" width="86" height="26" fill="#cdb4db" stroke="#333"/>
+<text x="405" y="330" text-anchor="middle">j1</text>
+<rect x="452" y="312" width="86" height="26" fill="#cdb4db" stroke="#333"/>
+<text x="495" y="330" text-anchor="middle">j2</text>
+<text x="80" y="360" text-anchor="end">t = 10</text>
+<rect x="92" y="342" width="86" height="26" fill="#cdb4db" stroke="#333"/>
+<text x="135" y="360" text-anchor="middle">j3</text>
+<rect x="182" y="342" width="86" height="26" fill="#cdb4db" stroke="#333"/>
+<text x="225" y="360" text-anchor="middle">j4</text>
+<rect x="272" y="342" width="86" height="26" fill="#cdb4db" stroke="#333"/>
+<text x="315" y="360" text-anchor="middle">j5</text>
+<rect x="362" y="342" width="86" height="26" fill="#cdb4db" stroke="#333"/>
+<text x="405" y="360" text-anchor="middle">j6</text>
+<rect x="452" y="342" width="86" height="26" fill="#cdb4db" stroke="#333"/>
+<text x="495" y="360" text-anchor="middle">j7</text>
+<text x="80" y="390" text-anchor="end">t = 11</text>
+<rect x="92" y="372" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="135" y="390" text-anchor="middle">h1</text>
+<rect x="182" y="372" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="225" y="390" text-anchor="middle">h2</text>
+<rect x="272" y="372" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="315" y="390" text-anchor="middle">h3</text>
+<rect x="362" y="372" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="405" y="390" text-anchor="middle">h4</text>
+<rect x="452" y="372" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="495" y="390" text-anchor="middle">h5</text>
+<text x="80" y="420" text-anchor="end">t = 12</text>
+<rect x="92" y="402" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="135" y="420" text-anchor="middle">h6</text>
+<rect x="182" y="402" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="225" y="420" text-anchor="middle">h7</text>
+<rect x="272" y="402" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="315" y="420" text-anchor="middle">h8</text>
+<rect x="362" y="402" width="86" height="26" fill="#ffafcc" stroke="#333"/>
+<text x="405" y="420" text-anchor="middle">h9</text>
+<rect x="452" y="402" width="86" height="26" fill="#bde0fe" stroke="#333"/>
+<text x="495" y="420" text-anchor="middle">i1</text>
+<text x="80" y="450" text-anchor="end">t = 13</text>
+<rect x="92" y="432" width="86" height="26" fill="#bde0fe" stroke="#333"/>
+<text x="135" y="450" text-anchor="middle">i2</text>
+<rect x="182" y="432" width="86" height="26" fill="#bde0fe" stroke="#333"/>
+<text x="225" y="450" text-anchor="middle">i3</text>
+<rect x="272" y="432" width="86" height="26" fill="#bde0fe" stroke="#333"/>
+<text x="315" y="450" text-anchor="middle">i4</text>
+<rect x="362" y="432" width="86" height="26" fill="#bde0fe" stroke="#333"/>
+<text x="405" y="450" text-anchor="middle">i5</text>
+<rect x="452" y="432" width="86" height="26" fill="#bde0fe" stroke="#333"/>
+<text x="495" y="450" text-anchor="middle">i6</text>
+<text x="80" y="480" text-anchor="end">t = 14</text>
+<rect x="92" y="462" width="86" height="26" fill="#e5e5e5" stroke="#333"/>
+<text x="135" y="480" text-anchor="middle">f1</text>
+<rect x="182" y="462" width="86" height="26" fill="#e5e5e5" stroke="#333"/>
+<text x="225" y="480" text-anchor="middle">f2</text>
+<rect x="272" y="462" width="86" height="26" fill="#e5e5e5" stroke="#333"/>
+<text x="315" y="480" text-anchor="middle">f3</text>
+<rect x="362" y="462" width="86" height="26" fill="#e5e5e5" stroke="#333"/>
+<text x="405" y="480" text-anchor="middle">f4</text>
+<rect x="452" y="462" width="86" height="26" fill="#e5e5e5" stroke="#333"/>
+<text x="495" y="480" text-anchor="middle">f5</text>
+<line x1="85" y1="190" x2="550" y2="190" stroke="red" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="556" y="195" fill="red">L1: усі a, d (17) → дозвіл j</text>
+<line x1="85" y1="280" x2="550" y2="280" stroke="red" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="556" y="285" fill="red">L2: усі b, e (14) → дозвіл h</text>
+<line x1="85" y1="340" x2="550" y2="340" stroke="red" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="556" y="345" fill="red">L3: усі c, g (12) → дозвіл i</text>
+<line x1="85" y1="460" x2="550" y2="460" stroke="red" stroke-width="2.5" stroke-dasharray="6,4"/>
+<text x="556" y="465" fill="red">L4: усі j, h, i (22) → дозвіл f</text>
+<text x="20" y="520">Клітинка — одна дія (1 одиниця часу). Червоні лінії — точки синхронізації (std::latch): після них латч</text>
+<text x="20" y="540">досягає нуля, і потоки, що на ньому чекають, можуть виконувати наступний набір.</text>
+<text x="20" y="560">Залежності: j ← a,d;  h ← b,e;  i ← c,g;  f ← j,h,i.  70 дій / 5 потоків = 14 одиниць часу (мінімум).</text>
+</svg>
