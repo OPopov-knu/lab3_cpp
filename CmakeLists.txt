@@ -16,7 +16,7 @@ else()
 endif()
 
 add_executable(out
-    main.cpp
+    lab3.cpp
 )
 
 # tasks.json
